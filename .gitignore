@@ -1,5 +1,5 @@
 bin/
-.claude/
+.claude/settings.local.json
 .idea/
 .vscode/
 .env.tools
